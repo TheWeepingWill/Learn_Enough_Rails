@@ -1,3 +1,6 @@
 [submodule "hello_world_rails"]
 	path = hello_world_rails
 	url = https://github.com/TheWeepingWill/hello_world_rails
+[submodule "toy_app_rails"]
+	path = toy_app_rails
+	url = https://github.com/TheWeepingWill/toy_app_rails
